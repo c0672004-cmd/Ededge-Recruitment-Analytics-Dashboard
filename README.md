@@ -4,7 +4,7 @@
 This interactive Power BI dashboard transforms a raw dataset of 10,000 candidate records into executive-level hiring insights. Developed during my training project with Ededge, this end-to-end business intelligence solution optimizes recruitment pipelines, diagnoses processing delays, and maps historical offer acceptance behaviors.
 
 ### 🖼️ Dashboard Preview
-![Recruitment Dashboard Preview](Screenshot-2026-06-27-125921.png)
+![Recruitment Dashboard Preview](screenshot.png)
 
 
 ---
