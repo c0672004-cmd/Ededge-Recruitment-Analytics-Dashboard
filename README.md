@@ -23,7 +23,8 @@ This interactive Power BI dashboard transforms a raw dataset of 10,000 candidate
 * **Advanced Data Visualization:** Constructed comprehensive custom canvas landscapes matching corporate theme presets. Implemented highly correlated Combo charts, Matrix tables, and multi-axis Scatter plots.
 
 ---
-
+## 🎥 Youtube Video 
+![See the Youtube Video Here](https://youtu.be/3iK-bRBruD0)
 ## 📂 Repository Contents
 * `*.pbix`: Complete Power BI Desktop source development file.
 * `README.md`: Explanatory executive summary documentation.
