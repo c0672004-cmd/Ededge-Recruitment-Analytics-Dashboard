@@ -24,7 +24,7 @@ This interactive Power BI dashboard transforms a raw dataset of 10,000 candidate
 
 ---
 ## 🎥 Youtube Video 
-![See the Youtube Video Here](https://youtu.be/3iK-bRBruD0)
+[See the Youtube Video Here](https://youtu.be/3iK-bRBruD0)
 ## 📂 Repository Contents
 * `*.pbix`: Complete Power BI Desktop source development file.
 * `README.md`: Explanatory executive summary documentation.
